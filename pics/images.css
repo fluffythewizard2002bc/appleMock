@@ -1,0 +1,44 @@
+.first-image {
+    position: absolute;
+    top: 226px;
+    right: 0px;
+    left: 0px;
+}
+
+.second-image {
+    position: absolute;
+    top: 890px;
+    right: 0px;
+    left: 0px;
+}
+
+.third-image {
+    position: absolute;
+    top: 1580px;
+    right: 0px;
+    left: 0px;
+}
+
+.fourth-image {
+    position: absolute;
+    top: 2400px;
+    right: 0px;
+    left: 0px;
+    text-align: center;
+}
+
+.fifth-image {
+    position: absolute;
+    top: 2900px;
+    right: 0px;
+    left: 0px;
+    text-align: center;
+}
+
+.sixth-image {
+    position: absolute;
+    top: 3500px;
+    right: 0px;
+    left: 0px;
+    text-align: center;
+}
